@@ -1,2 +1,2 @@
 # pqueue
-PQueue written in Go, based on *ru algorithms.
+PQueue written in Go, based on `*ru` algorithms.
